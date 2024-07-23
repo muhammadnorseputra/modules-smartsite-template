@@ -1,0 +1,91 @@
+[data-theme="dark"],
+[data-theme="dark"] .popModal,
+[data-theme="dark"] .modal-content {
+  background: #222 !important;
+  color: #ccc;
+}
+
+[data-theme="dark"] .hero-beranda {
+  background-image: url('../../../assets/images/bg/darkmode.png') !important;
+  background-size: cover;
+  background-position: top left;
+  background-repeat: no-repeat;
+}
+
+[data-theme="dark"] .bg-dark,
+[data-theme="dark"] section.hero {
+  background-color: #111 !important;
+}
+[data-theme="dark"] .separator {
+    border-top: 1px solid #333;
+}
+[data-theme="dark"] .bg-gradient-light {
+    background: #323232 !important;
+}
+[data-theme="dark"] .separator .separator-text {
+    background: #222 !important;
+}
+
+[data-theme="dark"] a {
+  color: #11A79E;
+}
+[data-theme="dark"] a:hover {
+  color: #ccc;
+}
+[data-theme="dark"] .dropdown-menu {
+  background-color: #323232 !important;
+  box-shadow: 0 4px 2em #222; 
+  // border: 1px solid #666;
+}
+
+[data-theme="dark"] .bg-light,
+[data-theme="dark"] .list-group .list-group-item  {
+  background-color: #222 !important;
+  color: #ccc;
+}
+
+[data-theme="dark"] .btn-transparent {
+	color: #ccc;
+}
+
+[data-theme="dark"] .card-footer,
+[data-theme="dark"] .bg-white,
+[data-theme="dark"] .loader-center,
+[data-theme="dark"] .page-slider {
+  background-color: #222 !important;
+}
+
+[data-theme="dark"] .navbar li.nav-item a:hover {
+  background-color: #222 !important;
+  border: 1px solid #111 !important;
+}
+
+[data-theme="dark"] .card.bg-white,
+[data-theme="dark"] .jumbotron {
+	background-color: #222 !important;
+}
+[data-theme="dark"] section.h-statis-detail {
+	background-color: #222 !important;
+}
+[data-theme="dark"] .bg-black {
+  background-color: #eee !important;
+}
+[data-theme="dark"] .navbar {
+  background-color: #323232 !important;
+}
+[data-theme="dark"]  .navbar li.nav-item a,
+[data-theme="dark"]  .text-primary {
+	color: #11A79E !important;
+}
+[data-theme="dark"] .border,
+[data-theme="dark"] .border-light,
+[data-theme="dark"] .border-white,
+[data-theme="dark"] .border-top,
+[data-theme="dark"] .border-left,
+[data-theme="dark"] .border-right,
+[data-theme="dark"] .border-bottom,
+[data-theme="dark"] .dropdown-divider,
+[data-theme="dark"] hr
+ {
+ 	border-color: #333 !important;
+ }
